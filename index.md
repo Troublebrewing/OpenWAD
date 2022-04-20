@@ -1,6 +1,6 @@
 # About
 
-Add some information about your project here.
+This repository contains the yaml configuration that is pulled when initially commisioning an OpenWAD device. The device configuration will be imported to your ESPHome dashboard then will show up in the "Devices and Services" or "Integrations" page of Home Assistant. Add some information about your project here.
 
 # Installation
 
